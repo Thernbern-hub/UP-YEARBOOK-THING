@@ -1,0 +1,86 @@
+
+
+#title{
+  text-align: center;
+    color: yellow;
+}
+
+#wrapper{
+  display:grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  gird-emplate-row: 500px;
+  grid-gap: 10px;
+  justify-items: center
+    
+}
+
+#pic{
+  width: 100%
+
+}
+
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+  text-align: center;
+  background-color: lightblue;
+  padding: 10px;
+  margin: 20px;
+    font-family: Helvetica;
+}
+
+#back{
+  color: blue;
+  background-color: purple;
+  
+
+}
+#next{
+  color: blue;
+  background-color: pink;
+}
+#body{
+  background: lightgreen;
+  background: url("https://img4.goodfon.com/wallpaper/nbig/4/6d/tekstura-fon-golden-stars.jpg");
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#name{
+  color: orange;
+  font-size: 30px;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.15);
+  padding: 10px;
+  margin: 20px;
+  font-weight: 700;
+    font-family: Helvetica
+  
+}
+
+#quote{
+  color: orange;
+   font-size: 30px;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.15);
+  padding: 10px;
+  margin: 20px;
+  font-weight: 700;
+    font-family: Helvetica
+}
+
+#superlative{
+  color: orange;
+   font-size: 30px;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.15);
+  padding: 10px;
+  margin: 20px;
+  font-weight: 700;
+    font-family: Helvetica
+}
+
+
+
